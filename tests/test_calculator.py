@@ -1,7 +1,7 @@
 import pytest
 from calculator.calculator import Calculator
 
-class TestCalculator:
+class TestCalculator: #add comment
     def test_add(self):
         # arrange
         a = 4321
